@@ -1,1 +1,2 @@
 # odin-recipes
+My first project in the Odin Project, Project: Recipes. This will help me practice the HTML knowledge that I have acquired. Uh instead of focusing the project on recipes, I have decided to put my own twist onto it to something I enjoy more... kpop idols :P lmaooooo 
